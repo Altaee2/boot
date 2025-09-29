@@ -1,7 +1,5 @@
 gunicorn
-telebot
-gdshortener
-re
-threading
-BytesIO
 pyTelegramBotAPI
+requests
+gdshortener
+pytz
