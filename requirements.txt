@@ -1,0 +1,7 @@
+gunicorn
+telebot
+gdshortener
+re
+threading
+BytesIO
+pyTelegramBotAPI
